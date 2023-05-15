@@ -1,1 +1,3 @@
 # Timechain Calendar: translations
+
+To contribute a new language pull the latest `master` branch. Create a new branch based off of the `master` branch then create a new language json file by copying the `en.json` file. Name the new file as `[locale-code].json`. Update values from english to translations in your language. Keep an eye on the length of translated strings,use the english version as a guide. Once your translations are complete push your new branch and open a pull request of your branch against the `development` branch.
