@@ -1,1 +1,1 @@
-# timechain-calendar-translations
+# Timechain Calendar: translations
