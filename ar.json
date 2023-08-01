@@ -37,7 +37,7 @@
   "settings.display.show_fees_section": "عرض الرسوم وحوض الذاكرة",
   "settings.display.fees_right_to_left": "الرسوم من اليمين الى اليسار",
   "settings.display.show_mining_pool": "عرض مجمع التعدين",
-  "settings.display.full_screen":  شاشة كاملة",
+  "settings.display.full_screen": "شاشة كاملة",
   "settings.locale.time_format": "تنسيق الوقت",
   "settings.locale.date_format": "تنسيق التاريخ",
   "settings.locale.language": "اللغة",
@@ -63,7 +63,7 @@
   "info.terms.read_more": "اقرأ المزيد",
   "info.terms.title.block": "كتلة",
   "info.terms.definition.block": "مجموعة من المعاملات التي تم اختيارها لتأكيد معًا وإضافتها إلى سلسلة الزمن.",
-  "info.terms.title.block_height": "ارتفاع الكتلة
+  "info.terms.title.block_height": "ارتفاع الكتلة",
   "info.terms.definition.block_height": "الطول الحالي حسب عدد الكتل في السلسلة الزمنية. يبدأ من 0 للكتلة الأصلية.",
   "info.terms.title.coinbase": "معاملة دفع المكافآت - كوين بايس",
   "info.terms.definition.coinbase": "المعاملة في كل كتلة تسلم مكافأة بيتكوين جديدة بالإضافة إلى الرسوم من المعاملات المضمنة إلى المُنقب الذي يفوز بتلك الكتلة. لا تختلط هذه بكازينو شيتكوين الذي يستخدم نفس الاسم.",
