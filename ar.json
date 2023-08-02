@@ -141,7 +141,7 @@
   "shared.go": "انطلق"
   "circles.blocks_to_halving": "عدد الكتل حتى التنصيف القادم",
   "circles.blocks_to_difficulty_adjust": "عدد الكتل حتى ضبط الصعوبة القادمة",
-  "circles.past_blocks": "الكتل خلال الـ 24 ساعة الماضية",
+  "circles.past_blocks": "عدد الكتل خلال الـ 24 ساعة الماضية",
   "data.block_time.title": "متوسط زمن الكتلة",
   "data.block_time.title_full": "متوسط زمن الكتلة",
   "data.block_time.target": "الهدف",
