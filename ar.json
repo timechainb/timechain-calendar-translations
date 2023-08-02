@@ -106,7 +106,7 @@
   "info.terms.title.tx": "المعاملة (تكس)",
   "info.terms.definition.tx": "رسالة موقعة بشكل صحيح إلى الشبكة، تُبلغ عن نقل الساتوشيز من عنوان أو عناوين يسيطر عليها المُرسِل إلى عنوان أو عناوين مستلمة واحدة أو عديدة.",
   "info.terms.title.vbytes": "البايت الافتراضي (في بي)",
-  "info.terms.definition.vbytes": "مقياس افتراضي للمساحة التخزينية أو 'الوزن' للبيانات في المعاملات والكتل."
+  "info.terms.definition.vbytes": "مقياس افتراضي للمساحة التخزينية أو 'الوزن' للبيانات في المعاملات والكتل.",
   "info.panel_label.resources": "مصادر",
   "info.resources.inspiration": "مصادر الإلهام لتقويم سلسلة الزمن تشمل",
   "info.resources.mempool_space": "مستكشف كتل يتمتع بميزات متقدمة ويدار من قبل المجتمع. نقدم شكرنا الكبير لهؤلاء الأشخاص على واجهة برمجة التطبيقات التي تزود هذا التطبيق بالبيانات.",
@@ -120,7 +120,7 @@
   "info.resources.words_by_gigi": "كلمات من قِبل جيجي",
   "info.resources.gigi_description": "قطع قصيرة مكتوبة بشكل جميل تغطي كل جانب تقريبًا من جوانب البيتكوين، وكيفية عملها، ولماذا تهمنا.",
   "info.resources.wtf_1971": "ماذا حدث في 1971؟",
-  "info.resources.wtf_1971_description": "لفهم الحل يجب أن نفهم المشكلة."
+  "info.resources.wtf_1971_description": "لفهم الحل يجب أن نفهم المشكلة.",
   "info.panel_label.contact": "اتصل بنا",
   "info.contact.copied": "تم النسخ",
   "info.contact.follow": "تابعنا على تويتر للحصول على تحديثات دورية حول التطبيق.",
@@ -138,7 +138,7 @@
   "shared.estimated.abbr": "تقدير",
   "shared.no_change": "لا تغيير",
   "shared.cancel": "إلغاء",
-  "shared.go": "انطلق"
+  "shared.go": "انطلق",
   "circles.blocks_to_halving": "عدد الكتل حتى التنصيف القادم",
   "circles.blocks_to_difficulty_adjust": "عدد الكتل حتى ضبط الصعوبة القادمة",
   "circles.past_blocks": "عدد الكتل خلال الـ 24 ساعة الماضية",
@@ -223,11 +223,13 @@
   "alerts.bitcoin_dates.satoshi_bday.title": "عيد ميلاد ساتوشي ناكاموتو",
   "alerts.bitcoin_dates.satoshi_bday": "عيد ميلاد سعيد ساتوشي ناكاموتو",
   "alerts.bitcoin_dates.hal_finney_bday.title": "عيد ميلاد هال فيني",
-  "alerts.bitcoin_dates.hal_finney_bday": "عيد ميلاد سعيد لأحد أوائل المساهمين المهمين في بيتكوين"
+  "alerts.bitcoin_dates.hal_finney_bday": "عيد ميلاد سعيد لأحد أوائل المساهمين المهمين في بيتكوين",
   "alerts.bitcoin_dates.pizza.title": "يوم بيتكوين للبيتزا",
   "alerts.bitcoin_dates.pizza": "دفع لاسزلو هانيتش 10,000 بتكوين مقابل اثنين من البيتزا الكبيرة. اشترِ بعض البيتزا بالساتوشيز اليوم",
   "alerts.bitcoin_dates.ny_agreement.title": "يوم اتفاق (نيويورك) / عدم اتفاق",
   "alerts.bitcoin_dates.ny_agreement": "تم تقديم مقترح بالتعاون من قبل أكثر من 50 شركة في مؤتمر كونسنسس 2017 لمضاعفة حجم الكتلة. بدأت حروب الكتل.",
+  "alerts.bitcoin_dates.independence_day.title": "Bitcoin Independence Day",
+  "alerts.bitcoin_dates.independence_day": "the Blocksize Wars drew to a close with Bitcoin users outmaneuvering miner control through a user-activated soft fork (UASF).",
   "alerts.bitcoin_dates.overflow.title": "حادث تجاوز القيمة",
   "alerts.bitcoin_dates.overflow": "تم اكتشاف أن الكتلة 74638 تحتوي على معاملة أنشأت أكثر من 184 مليار بتكوين لثلاثة عناوين مختلفة.",
   "alerts.bitcoin_dates.whitepaper.title": "يوم ورقة بيتكوين البيضاء",
@@ -237,7 +239,7 @@
   "alerts.bitcoin_dates.hodl.title": "يوم سعيد لـ احتضنها بكل قوتك",
   "alerts.bitcoin_dates.hodl": "نُشِرت مشاركة في منتدى حديث بيتكوين واُبتُكِر مصطلح   احتضنها بكل قوتك",
   "alerts.bitcoin_dates.da.title": "يوم ضبط الصعوبة",
-  "alerts.bitcoin_dates.da": "حدث أول ضبط لصعوبة العمل البرهاني! زادت الصعوبة من 1.34 إلى 1.82 مرة من صعوبة العام السابق:"
+  "alerts.bitcoin_dates.da": "حدث أول ضبط لصعوبة العمل البرهاني! زادت الصعوبة من 1.34 إلى 1.82 مرة من صعوبة العام السابق:",
   "alerts.gm_alerts.gm1": "صباح الخير ابقى متواضع وجمع ساتس",
   "alerts.gm_alerts.gm2": "صباح الخير جمع حارب وعمر",
   "alerts.gm_alerts.gm3": "صباح الخير البيتكوين أو العبودية",
@@ -274,8 +276,9 @@
   "alerts.gm_alerts.gm34": "صباح الخير قيم المسؤولية والاعتماد على النفس",
   "alerts.gm_alerts.gm35": "صباح الخير قوة معدل الحوسبة - هاش رايت تتزايد",
   "alerts.gm_alerts.gm36": "صباح الخير التنصيف قادم",
-  "alerts.gm_alerts.gm37": "صباح الخير ليس لديك ما يكفي من البيتكوين"
+  "alerts.gm_alerts.gm37": "صباح الخير ليس لديك ما يكفي من البيتكوين",
   "i18n.aria_label.ar": "ar",
+  "i18n.aria_label.ca": "ca",
   "i18n.aria_label.de": "de",
   "i18n.aria_label.en": "en",
   "i18n.aria_label.es": "es",
