@@ -196,7 +196,7 @@
   "mempool.transactions": "المعاملات",
   "mempool.depth": "العمق",
   "mempool.blocks": "الكتل",
-  "slider.scrub_blocks": "الرجوع الى كتلة معينه",
+  "slider.scrub_blocks": "الرجوع الى كتلة معينة",
   "slider.scrub": "الرجوع",
   "slider.release": "حرر لرؤية الكتلة",
   "alerts.bitcoin_dates.years_ago": "منذ سنوات",
