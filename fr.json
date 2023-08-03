@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Taux de change",
   "info.terms.definition.exchange": "Mesure de la valeur d'échange de Bitcoin par rapport à une autre devise. Peut être consulté en unité de devise par Bitcoin, ou en satoshis par unité de devise. Notez que les taux de change n'existent pas au sein du protocole et sont donc une notion totalement extérieur au réseau.",
   "info.terms.title.fees": "Frais",
-  "info.terms.definition.fees": "Estimations des taux de frais par priorité (HAUT, MOYEN, FAIBLE, 0 PRIORITÉ). Chaque transaction encourt des frais calculés en multipliant la taille des données de la transaction (vBytes) par le taux de frais choisi par l'expéditeur. Les mineurs traitent généralement les transactions qui paient les frais les plus élevés. Les taux affichés sont une suggestion basée sur les taux d'autres transactions en cours non confirmées.",
+  "info.terms.definition.fees": "Estimations des taux de frais par priorité. Chaque transaction encourt des frais calculés en multipliant la taille des données de la transaction (vBytes) par le taux de frais choisi par l'expéditeur. Les mineurs traitent généralement les transactions qui paient les frais les plus élevés. Les taux affichés sont une suggestion basée sur les taux d'autres transactions en cours non confirmées.",
   "info.terms.title.halving": "Halving (Réduction de moitié)",
   "info.terms.definition.halving": "Régule l'offre d'émission de Bitcoin tous les 210 000 blocs (environ tous les 4 ans). Réduit de moitié l'émission (subvention) par bloc de l'époque précédente. Étant donné que l'émission de Bitcoin est divisée par deux selon ce calendrier, l'offre finale sera limitée, totalisant moins de 21 000 000.",
   "info.terms.title.hashrate": "Taux de hachage",

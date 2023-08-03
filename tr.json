@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Değişim kuru",
   "info.terms.definition.exchange": "Bitcoin'in trade değerinin diğer bir para birimine karşı ölçülmesi. Bitcoin başına para birimi cinsinden veya para birimi başına satoshiler olarak bakılabilir. Değişim kurlarının protokolde yada ağda bulunmadığını ve tamamiyle dışsal bir yapı olduğunu belirtmek gerekir.",
   "info.terms.title.fees": "Ücretler",
-  "info.terms.definition.fees": "Önceliğe göre ücret oranı tahminleri. (Yüksek, Orta, Düşük, Her zaman) Her işlem, bir işlemin veri ölçüsünün (vBytes) gönderen tarafından belirlenen ücret oranıyla çarpılmasıyla hesaplanan bir ücreti öder. Madenciler genelde en yüksek ücreti ödeyen işlemleri seçerler. Gösterilen oranlar şu anda onaylanmamış diğer işlemlerin ücret oranlarına dayali bir öneridir.",
+  "info.terms.definition.fees": "Önceliğe göre ücret oranı tahminleri. Her işlem, bir işlemin veri ölçüsünün (vBytes) gönderen tarafından belirlenen ücret oranıyla çarpılmasıyla hesaplanan bir ücreti öder. Madenciler genelde en yüksek ücreti ödeyen işlemleri seçerler. Gösterilen oranlar şu anda onaylanmamış diğer işlemlerin ücret oranlarına dayali bir öneridir.",
   "info.terms.title.halving": "Yarılama",
   "info.terms.definition.halving": "Her 210,000 blok'ta bir Bitcoin'in arzını düzenler (kabaca her 4 yılda bir) Bir önceki dönemin blok başına ihracını (sübvansiyon) yarıya indirir. Bitcoin ihracı bu tarifede yarıya indiğinden en sonunda arz sonlu ve toplam 21.000.000'dan az olacaktır.",
   "info.terms.title.hashrate": "Hash Oranı",

@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Taxa de canvi",
   "info.terms.definition.exchange": "Mesurament del valor comercial de Bitcoin contra una altra moneda. Es pot veure en unitats monetàries per bitcoin o en satoshis per unitat de moneda. Cal dir que els tipus de canvi no existeixen al protocol ni a la xarxa i són una construcció purament externa.",
   "info.terms.title.fees": "Tarifes",
-  "info.terms.definition.fees": "Estimacions de taxes de tarifes per prioritats (ALTES, MITGES, BAIXES, SENSE TERMINI). Cada transacció paga una tarifa calculada al multiplicar el tamany de dades d'una transacció (Vbytes) per la taza de tarifes seleccionada pel remitent. Els miners generalment trien les transaccions que paguen les tarifes més altes. Les tarifes mostrades són un suggeriment basat en les taxes de tarifes d'altres transaccions encara sense confirmar.",
+  "info.terms.definition.fees": "Estimacions de taxes de tarifes per prioritats. Cada transacció paga una tarifa calculada al multiplicar el tamany de dades d'una transacció (Vbytes) per la taza de tarifes seleccionada pel remitent. Els miners generalment trien les transaccions que paguen les tarifes més altes. Les tarifes mostrades són un suggeriment basat en les taxes de tarifes d'altres transaccions encara sense confirmar.",
   "info.terms.title.halving": "Halving",
   "info.terms.definition.halving": "Regula el subministre d'emissió de Bitcoin cada 210.000 blocs (aproximadament cada 4 anys). Redueix la recompensa (subsidi) per bloc a la meitat de l'emissió de l'època anterior. Degut a l'emissió de reducció de meitats de Bitcoin en aquest cronograma, el suministre eventual serà finit, amb un total inferior a 21.000.000.",
   "info.terms.title.hashrate": "Hashrate",

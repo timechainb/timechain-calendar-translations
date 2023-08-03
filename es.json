@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Tasa de cambio",
   "info.terms.definition.exchange": "Medición del valor comercial de Bitcoin contra otra moneda. Se puede ver en unidades monetarias por Bitcoin, o satoshis por unidad de moneda. Cabe señalar que los tipos de cambio no existen en el protocolo o en la red y son una construcción puramente externa.",
   "info.terms.title.fees": "Tarifas",
-  "info.terms.definition.fees": "Estimaciones de tasas de tarifas por prioridad (ALTAS, MEDIAS, BAJAS, SIN PLAZO). Cada transacción paga una tarifa calculada al multiplicar el tamaño de datos de una transacción (VBytes) por la tasa de tarifas seleccionada por el remitente. Los mineros generalmente eligen las transacciones que pagan las tarifas más altas. Las tarifas mostradas son una sugerencia basada en las tasas de tarifas de otras transacciones actualmente no confirmadas.",
+  "info.terms.definition.fees": "Estimaciones de tasas de tarifas por prioridad. Cada transacción paga una tarifa calculada al multiplicar el tamaño de datos de una transacción (VBytes) por la tasa de tarifas seleccionada por el remitente. Los mineros generalmente eligen las transacciones que pagan las tarifas más altas. Las tarifas mostradas son una sugerencia basada en las tasas de tarifas de otras transacciones actualmente no confirmadas.",
   "info.terms.title.halving": "Halving",
   "info.terms.definition.halving": "Regula el suministro de la emisión de Bitcoin cada 210,000 bloqueos (aproximadamente cada 4 años). Reduce la resompensa (subsidio) por bloque a la mitad de la emisión de la época anterior. Debido a la emisión de reducción de mitades de Bitcoin en este cronograma, el suministro eventual será finito, totalizando menos de 21,000,000.",
   "info.terms.title.hashrate": "Hashrate",

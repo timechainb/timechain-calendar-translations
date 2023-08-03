@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Wechselkurs",
   "info.terms.definition.exchange": "Messung des Wechsekkurses von Bitcoin gegenüber einer anderen Währung. Kann in Währungseinheiten pro Bitcoin oder Satoshis pro Währungseinheit angezeigt werden. Zu beachten ist, dass die Wechselkurse weder im Protokoll noch im Netzwerk existieren und ein rein externes Konstrukt sind.",
   "info.terms.title.fees": "Gebühren",
-  "info.terms.definition.fees": "Gebührenschätzungen nach Priorität (HOCH, MITTEL, NIEDRIG, JEDERZEIT). Jede Transaktion zahlt eine Gebühr, die berechnet wird, indem die Datengröße einer Transaktion (vBytes) mit dem vom Absender gewählten Gebührensatz multipliziert wird. Miner wählen im Allgemeinen die Transaktionen, die die höchsten Gebühren zahlen. Die angezeigten Sätze sind ein Vorschlag, der auf den Gebührensätzen anderer derzeit unbestätigter Transaktionen basiert.",
+  "info.terms.definition.fees": "Gebührenschätzungen nach Priorität. Jede Transaktion zahlt eine Gebühr, die berechnet wird, indem die Datengröße einer Transaktion (vBytes) mit dem vom Absender gewählten Gebührensatz multipliziert wird. Miner wählen im Allgemeinen die Transaktionen, die die höchsten Gebühren zahlen. Die angezeigten Sätze sind ein Vorschlag, der auf den Gebührensätzen anderer derzeit unbestätigter Transaktionen basiert.",
   "info.terms.title.halving": "Halbierung",
   "info.terms.definition.halving": "Reguliert die Ausgabe von Bitcoin alle 210.000 Blöcke (ungefähr alle 4 Jahre). Halbiert die Ausgabe (Subvention) der vorherigen Epoche pro Block. Da sich die Ausgabe von Bitcoin nach diesem Zeitplan halbiert, wird das letztendliche Angebot endlich sein und sich insgesamt auf weniger als 21.000.000 belaufen.",
   "info.terms.title.hashrate": "Hashrate",

@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Taxa de corretagem",
   "info.terms.definition.exchange": "Valor comercial do Bitcoin em relação a outra moeda. Pode ser visualizado em unidades monetárias por Bitcoin ou satoshis por unidade monetária. Deve-se notar que as taxas de câmbio não existem no protocolo ou na rede e são uma medida externa.",
   "info.terms.title.fees": "Taxas",
-  "info.terms.definition.fees": "Estimativas de taxas por prioridade (ALTA, MÉDIA, BAIXA, SEM PRIORIDADE). Cada transação paga uma taxa calculada multiplicando o tamanho dos dados de uma transação (vBytes) pela taxa selecionada por quem envia. Os mineradores geralmente escolhem as transações que pagam as taxas mais altas. As taxas exibidas são uma sugestão com base nas taxas de outras transações não confirmadas no momento.",
+  "info.terms.definition.fees": "Estimativas de taxas por prioridade. Cada transação paga uma taxa calculada multiplicando o tamanho dos dados de uma transação (vBytes) pela taxa selecionada por quem envia. Os mineradores geralmente escolhem as transações que pagam as taxas mais altas. As taxas exibidas são uma sugestão com base nas taxas de outras transações não confirmadas no momento.",
   "info.terms.title.halving": "Halving",
   "info.terms.definition.halving": "Regula o fornecimento de emissão de Bitcoin a cada 210.000 blocos (aproximadamente a cada 4 anos). Reduz pela metade a emissão (subsídio) do bloco da época anterior. Como a emissão de Bitcoin cai pela metade neste cronograma, o suprimento final será finito, totalizando menos de 21.000.000.",
   "info.terms.title.hashrate": "Hashrate",
