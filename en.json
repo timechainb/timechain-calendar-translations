@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Exchange Rate",
   "info.terms.definition.exchange": "Measurement of Bitcoin's trade value against another currency. Can be viewed in currency units per Bitcoin, or satoshis per currency unit. It should be noted that exchange rates do not exist in the protocol or on the network and are a purely external construct.",
   "info.terms.title.fees": "Fees",
-  "info.terms.definition.fees": "Fee rate estimates by priority (HIGH, MEDIUM, LOW, ANYTIME). Every transaction pays a fee calculated by multiplying the data size of a transaction (vBytes) by the fee rate selected by the sender. Miners generally choose the transactions paying the highest fees. The rates displayed are a suggestion based on the fee rates of other currently unconfirmed transactions.",
+  "info.terms.definition.fees": "Fee rate estimates by priority. Every transaction pays a fee calculated by multiplying the data size of a transaction (vBytes) by the fee rate selected by the sender. Miners generally choose the transactions paying the highest fees. The rates displayed are a suggestion based on the fee rates of other currently unconfirmed transactions.",
   "info.terms.title.halving": "Halving",
   "info.terms.definition.halving": "Regulates the supply of Bitcoin's issuance every 210,000 blocks (roughly every 4 years). Halves the previous epoch's issuance (subsidy) per block. Because the issuance of Bitcoin halves on this schedule, the eventual supply will be finite, totalling less than 21,000,000.",
   "info.terms.title.hashrate": "Hashrate",

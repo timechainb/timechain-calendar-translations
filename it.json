@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Tasso di cambio",
   "info.terms.definition.exchange": "La misura del valore di cambio di Bitcoin contro un'altra valuta. Può essere visualizzata in unità di valuta contro Bitcoin, oppure Sats contro unità di valuta. Da notare che i tassi di cambio non esistono all'interno del protocollo o nel network, ma sono puramente dati presi all'esterno.",
   "info.terms.title.fees": "Commissioni",
-  "info.terms.definition.fees": "I tassi delle commissioni vengono stimati per priorità (ALTA, MEDIA, BASSA, QUALSIASI MOMENTO). Per ogni transazione si paga una commissione calcolata moltiplicando la dimensione dei dati della transazione (vBytes) per il tasso di commissione selezionato dal mittente. I miners generalmente selezionano le transazioni che pagano commissioni più alte. I tassi mostrati sono basati sulle commissioni di transazioni non ancora confermate.",
+  "info.terms.definition.fees": "I tassi delle commissioni vengono stimati per priorità. Per ogni transazione si paga una commissione calcolata moltiplicando la dimensione dei dati della transazione (vBytes) per il tasso di commissione selezionato dal mittente. I miners generalmente selezionano le transazioni che pagano commissioni più alte. I tassi mostrati sono basati sulle commissioni di transazioni non ancora confermate.",
   "info.terms.title.halving": "Halving",
   "info.terms.definition.halving": "Regola la quantità di Bitcoin emessi ogni 210,000 blocchi (all'incirca ogni 4 anni). Dimezza l'emissione della scorsa epoca (Ricompensa) per ogni blocco. Poichè l'emissioni di Bitcoin dimezza secondo queste regole, la disponibilità sarà finita, per un totale di poco meno di 21,000,000.",
   "info.terms.title.hashrate": "Hashrate",

@@ -74,7 +74,7 @@
   "info.terms.title.exchange": "Växelkurs",
   "info.terms.definition.exchange": "Bitcoins handelsvärde mot annan valuta. Kan ses i valutaenheter per bitcoin, eller satoshis per valutaenhet. Det bör noteras att växelkurser inte existerar i bitcoins protokoll eller på nätverket och är en rent extern konstruktion.",
   "info.terms.title.fees": "Avgifter",
-  "info.terms.definition.fees": "Nivån på avgifterna uppskattas efter prioritet (HÖG, MEDEL, LÅG, NÄR SOM HELST). Varje transaktion betalar en avgift som beräknas genom att multiplicera datastorleken för en transaktion (vBytes) med den avgiftssats som avsändaren valt. Miners väljer i allmänhet de transaktioner som betalar de högsta avgifterna. Priserna som visas är ett förslag baserat på avgiftssatserna på övriga för stunden obekräftade transaktioner.",
+  "info.terms.definition.fees": "Nivån på avgifterna uppskattas efter prioritet. Varje transaktion betalar en avgift som beräknas genom att multiplicera datastorleken för en transaktion (vBytes) med den avgiftssats som avsändaren valt. Miners väljer i allmänhet de transaktioner som betalar de högsta avgifterna. Priserna som visas är ett förslag baserat på avgiftssatserna på övriga för stunden obekräftade transaktioner.",
   "info.terms.title.halving": "Halvering",
   "info.terms.definition.halving": "Reglerar utbudet av nya bitcoin vart 210 000:e block (ungefär vart fjärde år). Halverar den tidigare epokens miningersättning per block (blocksubsidy). Eftersom utgivningen av nya bitcoin halveras enligt detta schema kommer det slutliga utbudet att vara begränsat, totalt mindre än 21 000 000.",
   "info.terms.title.hashrate": "Hashrate",
