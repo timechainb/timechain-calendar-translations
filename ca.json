@@ -167,7 +167,7 @@
   "data.difficulty.title": "Dif promig",
   "data.difficulty.title_full": "Dificultat promig",
   "data.difficulty.hashes_per_block": "Hashes / Bloc",
-  "data.last_block_fees.title": "Tarifes últim bloc",
+  "data.last_block_fees.title": "Tarifes",
   "data.last_block_fees.title_full": "Tarifes de l'últim bloc",
   "data.last_block_fees.of_reward": "de recomp.",
   "data.last_block_reward.title": "Últim Bloc",
