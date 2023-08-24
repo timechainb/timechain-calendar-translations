@@ -96,7 +96,7 @@
   "info.terms.title.pow": "Τεκμηρίωση Εργασίας",
   "info.terms.definition.pow": "Η προσαρμοσμένη δυσκολία της τεκμηρίωσης εργασίας είναι απαραίτητη για τη λειτουργία του δικτύου bitcoin.\ «Η αλυσίδα με την περισσότερη εργασία είναι η αλήθεια, εξ ορισμού. Αυτό είναι που ονομάζουμε συναίνεση Nakamoto. [Αυτό λειτουργεί] επειδή η εργασία απαιτεί ενέργεια. Δεν μπορείς να την εξαπατήσεις. Δεν μπορείς να το αμφισβητήσεις. Δεν μπορείς να πεις ψέματα γι' αυτό. Η τεκμηρίωση ότι κάνατε τη εργασία είναι αυταπόδεικτη στο αποτέλεσμα της εργασίας».\.",
   "info.terms.title.sats": "Sats",
-  "info.terms.definition.sats": "Abbreviation for Satoshis, the base unit and smallest division of bitcoin. One bitcoin is shorthand for 100 million sats. Less than 2.1 quadrillion total sats will ever be issued.",
+  "info.terms.definition.sats": "Συντομογραφία του Satoshis, της βασικής μονάδας και της μικρότερης υποδιαίρεσης του bitcoin. Ένα bitcoin είναι η συντομογραφία για 100 εκατομμύρια sats. Συνολικά θα εκδοθούν λιγότερα από 2,1 τετράκις εκατομμύρια sats.",
   "info.terms.title.subsidy": "Αμοιβή",
   "info.terms.definition.subsidy": "Portion of the block reward consisting of new supply issuance. The subsidy per block is halved at the end of each epoch.",
   "info.terms.title.supply": "Απόθεμα",
