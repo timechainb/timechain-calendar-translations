@@ -1,6 +1,6 @@
 {
   "app.title.timechain": "Χρονοαλυσίδα",
-  "app.title.calendar": "Ημερολόγιο",
+  "app.title.calendar": "Ημερολόγιο", 
   "app.title.timechain_calendar": "Ημερολόγιο Χρονοαλυσίδας",
   "app.description": "Δεδομένα σε πραγματικό χρόνο από την Χρονοαλυσίδα του Bitcoin με ευρετήριο προηγούμενων block και άλλα χαρακτηριστικά ημερολογίου.",
   "app.status.press_to_reload": "Πατήστε εδώ για Επαναφόρτωση",
