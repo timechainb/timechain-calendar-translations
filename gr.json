@@ -148,7 +148,7 @@
     "data.block_time.title_full": "Μεσος Ορος Χρονου Block",
     "data.block_time.target": "Στοχος",
     "data.block_time.10minutes.abbr": "10 Λεπτα",
-    "data.last_24hrs.title": "Τις τελυταιες 24 Ωρες",
+    "data.last_24hrs.title": "Τις τελευταιες 24 Ωρες",
     "data.last_24hrs.blocks": "Blocks",
     "data.next_diff_adj.title": "Επομενη Προσαρμογη",
     "data.next_diff_adj.title_full": "Επομενη Προσ/γη Δυσκολιας",
