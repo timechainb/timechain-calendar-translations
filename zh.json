@@ -44,6 +44,7 @@
   "settings.locale.language": "语言",
   "settings.locale.12hour": "12小时",
   "settings.locale.24hour": "24小时",
+  "settings.currency": "货币",
   "settings.sounds.sounds_are": "声音",
   "settings.sounds.on": "开启",
   "settings.sounds.off": "关闭",

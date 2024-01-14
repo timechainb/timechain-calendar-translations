@@ -44,6 +44,7 @@
   "settings.locale.language": "Lisan",
   "settings.locale.12hour": "12 Saat",
   "settings.locale.24hour": "24 Saat",
+  "settings.currency": "Para birimi",
   "settings.sounds.sounds_are": "Sesler",
   "settings.sounds.on": "Açık",
   "settings.sounds.off": "Kapalı",

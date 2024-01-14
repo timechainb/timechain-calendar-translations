@@ -44,6 +44,7 @@
   "settings.locale.language": "Sprache",
   "settings.locale.12hour": "12 Stunden",
   "settings.locale.24hour": "24 Stunden",
+  "settings.currency": "Währung",
   "settings.sounds.sounds_are": "Töne sind",
   "settings.sounds.on": "an",
   "settings.sounds.off": "aus",

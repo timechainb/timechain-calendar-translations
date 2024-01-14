@@ -44,6 +44,7 @@
  "settings.locale.language": "Язык",
  "settings.locale.12hour": "12 часов",
  "settings.locale.24hour": "24 часа",
+ "settings.currency": "Валюта",
  "settings.sounds.sounds_are": "Звук",
  "settings.sounds.on": "Вкл.",
  "settings.sounds.off": "Выкл.",

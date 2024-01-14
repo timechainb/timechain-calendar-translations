@@ -44,6 +44,7 @@
     "settings.locale.language": "Γλωσσα",
     "settings.locale.12hour": "12 Ωρες",
     "settings.locale.24hour": "24 Ωρες",
+    "settings.currency": "Νόμισμα",
     "settings.sounds.sounds_are": "Οι ηχοι ειναι",
     "settings.sounds.on": "On",
     "settings.sounds.off": "Off",
