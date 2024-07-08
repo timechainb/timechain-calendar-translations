@@ -17,7 +17,7 @@
   "calculator.button_label": "Αριθμομηχανή",
   "settings.button_label": "Ρυθμίσεις",
   "settings.modal_title": "Ρυθμίσεις",
-  "settings.modal_disclaimer": "Οι προτιμήσεις του χρήστη αποθηκεύονται προσωρινά μόνο στον αποθηκευτικό χώρο του προγράμματος περιήγησής σας.",
+  "settings.modal_disclaimer": "Οι προτιμήσεις του χρήστη αποθηκεύονται προσωρινά μόνο στον αποθηκευτικό χώρο του προγράμματος περιήγησης.",
   "settings.tab_label.units": "Μονάδες",
   "settings.tab_label.display": "Προβολή",
   "settings.tab_label.locale": "Τοπικά",
