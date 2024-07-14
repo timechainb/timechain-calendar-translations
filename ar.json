@@ -168,7 +168,7 @@
   "data.chainstate": "حالة السلسلة",
   "data.chainstate.updated_daily": "مُحدَّث يوميًّا",
   "data.chainstate.addresses": "العناوين",
-  "data.chainstate.utxo_count": "عدد المخرجات غير المنفقة",
+  "data.chainstate.utxo_count": "مخرجات غير منفقة",
   "data.chainstate.transactions": "المعاملات",
   "data.chainstate.total_disk": "الحجم الكلي للملفات",
   "data.nodes.section": "الشبكة",
