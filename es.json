@@ -205,6 +205,8 @@
   "block_details.more_detail": "Mas Detalles",
   "gallery.button_label": "Galería",
   "gallery.sort": "Ordenar",
+  "gallery.filter": "Filtro",
+  "gallery.all": "Todo",
   "gallery.sort.artist_asc": "Artista/Autor (ASC)",
   "gallery.sort.artist_desc": "Artista/Autor (DESC)",
   "gallery.sort.block_asc": "Bloque (ASC)",
