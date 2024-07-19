@@ -205,6 +205,8 @@
   "block_details.more_detail": "تفاصيل أكثر",
   "gallery.button_label": "المعرض",
   "gallery.sort": "ترتيب",
+  "gallery.filter": "Filter",
+  "gallery.all": "All",
   "gallery.sort.artist_asc": "الفنان/المؤلف (تصاعدي)",
   "gallery.sort.artist_desc": "الفنان/المؤلف (تنازلي)",
   "gallery.sort.block_asc": "الكتلة (تصاعدي)",
