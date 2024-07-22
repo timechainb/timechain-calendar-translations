@@ -164,6 +164,7 @@
   "data.last_block_reward.tx_fees": "TX-Gebühren",
   "data.last_block_reward.no_fees": "Keine Gebühren",
   "data.last_block_reward.reward": "Belohnung",
+  "data.last_block_reward.mined_by": "Mined by",
   "data.block_production": "Block Produktion",
   "data.chainstate": "Kettenstand",
   "data.chainstate.updated_daily": "tägliches updaten",

@@ -164,6 +164,7 @@
   "data.last_block_reward.tx_fees": "رسوم المعاملات",
   "data.last_block_reward.no_fees": "لا يوجد رسوم",
   "data.last_block_reward.reward": "المكافأة",
+  "data.last_block_reward.mined_by": "Mined by",
   "data.block_production": "إنتاج الكتل",
   "data.chainstate": "حالة السلسلة",
   "data.chainstate.updated_daily": "مُحدَّث يوميًّا",

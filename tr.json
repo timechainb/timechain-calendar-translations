@@ -164,6 +164,7 @@
   "data.last_block_reward.tx_fees": "Islm ucreti",
   "data.last_block_reward.no_fees": "Ucretsiz",
   "data.last_block_reward.reward": "Odul",
+  "data.last_block_reward.mined_by": "Mined by",
   "data.block_production": "Blok Uretimi",
   "data.chainstate": "Zincir hali",
   "data.chainstate.updated_daily": "Gunluk Guncelleme",

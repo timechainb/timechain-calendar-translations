@@ -164,6 +164,7 @@
   "data.last_block_reward.tx_fees": "Taxas Transações",
   "data.last_block_reward.no_fees": "Sem Taxas",
   "data.last_block_reward.reward": "Recompensa",
+  "data.last_block_reward.mined_by": "Mined by",
   "data.block_production": "Produção de Blocos",
   "data.chainstate": "Estado da Rede",
   "data.chainstate.updated_daily": "Atualizado Diariamente",

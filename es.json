@@ -164,6 +164,7 @@
   "data.last_block_reward.tx_fees": "Tarifas/TX",
   "data.last_block_reward.no_fees": "Sin Tarifas",
   "data.last_block_reward.reward": "Premio",
+  "data.last_block_reward.mined_by": "Minado por",
   "data.block_production": "Producción de Bloques",
   "data.chainstate": "Estado de la Cadena",
   "data.chainstate.updated_daily": "Actualizado a Diario",

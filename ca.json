@@ -164,6 +164,7 @@
   "data.last_block_reward.tx_fees": "Taxes TX",
   "data.last_block_reward.no_fees": "No Taxes",
   "data.last_block_reward.reward": "Recompensa",
+  "data.last_block_reward.mined_by": "Mined by",
   "data.block_production": "Producció de Bloc",
   "data.chainstate": "Estat Cadena",
   "data.chainstate.updated_daily": "Actualitzat diàriament",
