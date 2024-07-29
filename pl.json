@@ -165,7 +165,7 @@
   "data.last_block_reward.no_fees": "Brak opłat",
   "data.last_block_reward.reward": "Nagroda",
   "data.last_block_reward.mined_by": "Wykopany przez",
-  "data.block_production": "Produkcja bloku",
+  "data.block_production": "Produkcja bloków",
   "data.chainstate": "Stan sieci",
   "data.chainstate.updated_daily": "Aktualizowane codziennie",
   "data.chainstate.addresses": "Adresy",
