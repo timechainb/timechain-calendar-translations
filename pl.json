@@ -152,7 +152,7 @@
   "data.difficulty.title": "Śr. trudność",
   "data.difficulty.hashes_per_block": "Hasze / blok",
   "data.hashrate.title": "Hashrate",
-  "data.hashrate.real_time": "W czesie rzeczyw.",
+  "data.hashrate.real_time": "W czasie rzeczyw.",
   "data.hashrate.average": "Średni",
   "data.next_halving.title": "Nast. halving",
   "data.next_halving.blocks.lower_case": "bloki",
