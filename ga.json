@@ -1,15 +1,15 @@
 {
-  "app.title.timechain": "Timechain",
-  "app.title.calendar": "Calendar",
-  "app.title.timechain_calendar": "Timechain Calendar",
+  "app.title.timechain": "Timechain", Amslabhra 
+  "app.title.calendar": "Calendar", Féilire
+  "app.title.timechain_calendar": "Timechain Calendar", Amslabhra Féilire
   "app.description": "Live data from the Bitcoin timechain with past block lookup and other calendar features.",
-  "app.status.press_to_reload": "Press to Reload",
-  "app.go_home": "Go Home",
-  "app.no_match_route": "Oops! Nothing at this route.",
+  "app.status.press_to_reload": "Press to Reload", Brúigh chun athluchtaigh
+  "app.go_home": "Go Home", Teigh Abhaile
+  "app.no_match_route": "Oops! Nothing at this route.", Oops! Náid anseo
   "app.loading": "Loading",
   "nw_corner.epoch": "Epoch",
   "nw_corner.supply": "Supply",
-  "nw_corner.of": "of",
+  "nw_corner.of": "of", de
   "nw_corner.subsidy": "Subsidy",
   "nw_corner.per_block": "Per Block",
   "ne_corner.exchange_rate": "Exchange",
