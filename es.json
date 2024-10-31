@@ -265,7 +265,7 @@
   "alerts.bitcoin_dates.overflow.title": "Incidente de desbordamiento de valor",
   "alerts.bitcoin_dates.overflow": "se descubrió que el bloque 74638 contenía una transacción que creó más de 184 mil millones de BTC para tres direcciones diferentes.",
   "alerts.bitcoin_dates.whitepaper.title": "Día del Bitcoin Whitepaper",
-  "alerts.bitcoin_dates.whitepaper": "Satoshi Nakamoto publicó el documento técnico de Bbitcoin.",
+  "alerts.bitcoin_dates.whitepaper": "Satoshi Nakamoto publicó el documento técnico de Bitcoin.",
   "alerts.bitcoin_dates.coldcard.title": "Día de la Coldcard",
   "alerts.bitcoin_dates.coldcard": "Coinkite lanzó la billetera de hardware de Bitcoin más confiable y segura del mundo, la Coldcard.",
   "alerts.bitcoin_dates.hodl.title": "Feliz día de HODL",
